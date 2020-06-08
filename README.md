@@ -2,6 +2,7 @@
 This project gives a brief insight into using a classification model to predict the presence of malignant or benign tumours
 
 Algorithm to be used- Logistic Regression
+
 Data used from - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
 
 Acknowledgement:
